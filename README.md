@@ -20,4 +20,5 @@ Este projeto é uma aplicação simples de lista de tarefas, desenvolvida como p
 - Visualizar todas as tarefas
 - Editar tarefas existentes
 - Excluir tarefas
-
+### Caso de Uso 
+![Caso de Uso](https://github.com/TISTONEGI/Lista-de-Tarefas/assets/161548231/9a0c5778-bfce-4030-b822-07924536b498)
